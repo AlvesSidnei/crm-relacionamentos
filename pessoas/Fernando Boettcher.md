@@ -1,12 +1,12 @@
 ---
-nome: GloboSul
+nome: Fernando Boettcher
 empresa: Globosul
-cargo:
+cargo: Gestor Comercial Globosul
 email:
-telefone:
+telefone: 47 8857-5965
 origem:
-tipo_origem: Indicação
-data_entrada:
+tipo_origem: Parceiro
+data_entrada: 2026-08-12
 status: Parceiro
 ultima_interacao:
 proximo_followup:
@@ -41,8 +41,8 @@ tags:
 - **Próximos passos:** 
 
 ## 🔗 Relacionamentos
-- **Conhece:** [[Marlos Fernando]][[Renato Santinon]][[Silvio Correa]]
-- **Foi apresentado para:** [[EASYPRO]][[Raimondi-artefatos]]
+- **Conhece:** [[Fernando Fernandes]][[Renato Santinon]]
+- **Foi apresentado para:** [[Empresa]]
 - **Parceiros em comum:** [[Empresa]]
 
 ## 📝 Notas

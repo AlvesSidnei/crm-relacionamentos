@@ -1,9 +1,9 @@
 ---
-nome: GloboSul
+nome: Renato Santinon
 empresa: Globosul
-cargo:
+cargo: CEO
 email:
-telefone:
+telefone: 47 9100-0205
 origem:
 tipo_origem: Indicação
 data_entrada:
@@ -24,7 +24,7 @@ tags:
 - **Telefone:** 
 
 ## 🔗 Origem
-- **Indicado por:** [[Nome da Pessoa/Empresa]]
+- **Indicado por:** [[pessoas/Fernando Fernandes|Fernando Fernandes]]
 - **Data:** 
 - **Tipo:** Indicação / Contato Direto / Evento / Outro
 
@@ -41,8 +41,8 @@ tags:
 - **Próximos passos:** 
 
 ## 🔗 Relacionamentos
-- **Conhece:** [[Marlos Fernando]][[Renato Santinon]][[Silvio Correa]]
-- **Foi apresentado para:** [[EASYPRO]][[Raimondi-artefatos]]
+- **Conhece:** [[pessoas/Fernando Fernandes|Fernando Fernandes]][[Fernando Boettcher]]
+- **Foi apresentado para:** [[Empresa]]
 - **Parceiros em comum:** [[Empresa]]
 
 ## 📝 Notas
