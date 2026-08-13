@@ -2,6 +2,7 @@
 nome: GloboSul
 empresa: Globosul
 cargo:
+tipo_relacao:
 email:
 telefone:
 origem:

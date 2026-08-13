@@ -2,6 +2,7 @@
 nome: Marlos Fernando
 empresa: "[[OppportunityJet]]"
 cargo: CEO
+tipo_relacao:
 email:
 telefone: 41 9646-7744
 origem:
