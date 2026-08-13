@@ -1,7 +1,8 @@
 ---
 nome: 
-empresa: 
+empresa: [[Nome da Empresa]]
 cargo: 
+tipo_relacao: funcionario
 email: 
 telefone: 
 origem: 

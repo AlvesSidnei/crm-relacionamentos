@@ -3,6 +3,7 @@ nome:
 segmento: 
 site: 
 contato_principal: 
+funcionarios: []
 parceiros: []
 indicacoes_feitas: []
 tags: [empresa, parceiro]
@@ -15,17 +16,24 @@ tags: [empresa, parceiro]
 - **Site:** 
 - **Contato principal:** [[Nome da Pessoa]]
 
-## 🤝 Relacionamentos
+## 👥 Pessoas da empresa
 
-### Parceiros
-- [[Empresa Parceira]]
+### Funcionários
+- [[Nome da Pessoa]] - Cargo
+
+### Contatos/Parceiros
+- [[Nome da Pessoa]] - Cargo
 
 ### Indicações feitas
-- [[Pessoa Indicada]] - {{data}}
 - [[Pessoa Indicada]] - {{data}}
 
 ### Apresentado para
 - [[Pessoa]] - {{data}}
+
+## 🤝 Relacionamentos
+
+### Parceiros
+- [[Empresa Parceira]]
 
 ## 📊 Oportunidades relacionadas
 - [[indicacoes/nome-do-arquivo.md]]
