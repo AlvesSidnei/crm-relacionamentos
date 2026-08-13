@@ -1,13 +1,18 @@
 ---
 nome: 
-segmento: 
-site: 
-contato_principal: 
-parceiros: []
-indicacoes_feitas: []
-tags: [empresa, parceiro]
+empresa: [[Nome da Empresa]]
+cargo: 
+tipo_relacao: funcionario
+email: 
+telefone: 
+origem: 
+tipo_origem: Indicação
+data_entrada: 
+status: lead
+ultima_interacao: 
+proximo_followup: 
+tags: [lead, indicacao]
 ---
-
 # {{nome}}
 
 ## 📋 Dados
