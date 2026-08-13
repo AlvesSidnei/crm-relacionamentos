@@ -2,7 +2,7 @@
 nome: Alexandre Ribeiro
 empresa:
 cargo:
-tipo_relacao: 
+tipo_relacao: funcionario
 email:
 telefone: 47 9992-3051
 origem: Raimondi Artefatos Cimento
