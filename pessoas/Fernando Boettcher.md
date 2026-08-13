@@ -2,6 +2,7 @@
 nome: Fernando Boettcher
 empresa: Globosul
 cargo: Gestor Comercial Globosul
+tipo_relacao:
 email:
 telefone: 47 8857-5965
 origem:
