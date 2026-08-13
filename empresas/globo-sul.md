@@ -1,11 +1,14 @@
 ---
 nome: Globo Sul
-segmento: 
-site: 
-contato_principal: 
-parceiros: [Raimonde Artefatos Cimento]
-indicacoes_feitas: []
-tags: [empresa, parceiro]
+segmento:
+site:
+contato_principal:
+parceiros:
+  - Raimonde Artefatos Cimento
+indicacoes_feitas:
+tags:
+  - empresa
+  - parceiro
 ---
 
 # Globo Sul

@@ -1,11 +1,15 @@
 ---
 nome: Raimonde Artefatos Cimento
 segmento: Cimento e artefatos
-site: 
-contato_principal: 
-parceiros: [Globo Sul]
-indicacoes_feitas: [Clóvis Faé]
-tags: [empresa, parceiro]
+site:
+contato_principal:
+parceiros:
+  - Globo Sul
+indicacoes_feitas:
+  - Clóvis Faé
+tags:
+  - empresa
+  - parceiro
 ---
 
 # Raimonde Artefatos Cimento
