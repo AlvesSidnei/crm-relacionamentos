@@ -2,6 +2,7 @@
 nome: Silvio Correa
 empresa: "[[EASYPRO]]"
 cargo: CEO
+tipo_relacao:
 email:
 telefone:
 origem:
