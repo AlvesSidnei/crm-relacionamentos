@@ -2,6 +2,7 @@
 nome: Clóvis Faé
 empresa:
 cargo:
+tipo_relacao:
 email:
 telefone: 47 9670-2008
 origem: Raimondi Artefatos Cimento
