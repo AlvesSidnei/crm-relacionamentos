@@ -1,13 +1,13 @@
 ---
-nome: GloboSul
-empresa: Globosul
+nome: Alexandre Ribeiro
+empresa:
 cargo:
 email:
-telefone:
-origem:
+telefone: 47 9992-3051
+origem: Raimondi Artefatos Cimento
 tipo_origem: Indicação
 data_entrada:
-status: Parceiro
+status: lead
 ultima_interacao:
 proximo_followup:
 tags:

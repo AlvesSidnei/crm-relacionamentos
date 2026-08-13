@@ -1,13 +1,13 @@
 ---
-nome: GloboSul
-empresa: Globosul
-cargo:
+nome: Marlos Fernando
+empresa: "[[OppportunityJet]]"
+cargo: CEO
 email:
-telefone:
+telefone: 41 9646-7744
 origem:
-tipo_origem: Indicação
+tipo_origem: Parceiro
 data_entrada:
-status: Parceiro
+status: lead
 ultima_interacao:
 proximo_followup:
 tags:

@@ -1,16 +1,18 @@
 ---
 nome: Clóvis Faé
-empresa: 
-cargo: 
-email: 
-telefone: 
+empresa:
+cargo:
+email:
+telefone: 47 9670-2008
 origem: Raimondi Artefatos Cimento
 tipo_origem: Indicação
 data_entrada: 2026-08-11
 status: lead
 ultima_interacao: 2026-08-12
 proximo_followup: 2026-08-19
-tags: [lead, indicacao]
+tags:
+  - lead
+  - indicacao
 ---
 
 # Clóvis Faé
@@ -40,8 +42,8 @@ tags: [lead, indicacao]
 
 ## 🔗 Relacionamentos
 - **Indicado por:** [[Raimondi Artefatos Cimento]]
-- **Foi apresentado para:** [[Globo Sul]]
-- **Parceiros em comum:** [[Raimondi Artefatos Cimento]], [[Globo Sul]]
+- **Foi apresentado para:** [[GloboSul]]
+- **Parceiros em comum:** [[Raimondi Artefatos Cimento]], [[GloboSul]]
 
 ## 📝 Notas
 - Contato quente, demonstrou interesse em Globo Sul

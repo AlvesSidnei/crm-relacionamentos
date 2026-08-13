@@ -22,7 +22,7 @@ tags:
 ## 🤝 Relacionamentos
 
 ### Parceiros
-- [[Globo Sul]]
+- [[GloboSul]]
 
 ### Indicações feitas
 - [[Clóvis Faé]] - 2026-08-11

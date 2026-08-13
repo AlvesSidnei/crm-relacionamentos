@@ -39,9 +39,8 @@ tags: [indicacao, lead]
 - [ ] Follow-up em 2026-08-19
 
 ## 🔗 Relacionamentos envolvidos
-- **Parceiros:** [[Globo Sul]]
-- **Apresentado para:** [[Clóvis Faé]]
-
+- **Parceiros:** [[GloboSul]]
+- **Apresentado para:** [[GloboSul]]
 ## 📝 Notas
 - Oportunidade quente
 - Clóvis demonstrou interesse em Globo Sul

@@ -1,5 +1,5 @@
 ---
-nome: Globo Sul
+nome: GloboSul
 segmento:
 site:
 contato_principal:

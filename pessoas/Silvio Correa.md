@@ -1,7 +1,7 @@
 ---
-nome: GloboSul
-empresa: Globosul
-cargo:
+nome: Silvio Correa
+empresa: "[[EASYPRO]]"
+cargo: CEO
 email:
 telefone:
 origem:
