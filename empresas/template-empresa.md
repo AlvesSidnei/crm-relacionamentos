@@ -1,18 +1,14 @@
 ---
 nome: 
-empresa: [[Nome da Empresa]]
-cargo: 
-tipo_relacao: funcionario
-email: 
-telefone: 
-origem: 
-tipo_origem: Indicação
-data_entrada: 
-status: lead
-ultima_interacao: 
-proximo_followup: 
-tags: [lead, indicacao]
+segmento: 
+site: 
+contato_principal: 
+funcionarios: []
+parceiros: []
+indicacoes_feitas: []
+tags: [empresa, parceiro]
 ---
+
 # {{nome}}
 
 ## 📋 Dados
@@ -20,17 +16,24 @@ tags: [lead, indicacao]
 - **Site:** 
 - **Contato principal:** [[Nome da Pessoa]]
 
-## 🤝 Relacionamentos
+## 👥 Pessoas da empresa
 
-### Parceiros
-- [[Empresa Parceira]]
+### Funcionários
+- [[Nome da Pessoa]] - Cargo
+
+### Contatos/Parceiros
+- [[Nome da Pessoa]] - Cargo
 
 ### Indicações feitas
-- [[Pessoa Indicada]] - {{data}}
 - [[Pessoa Indicada]] - {{data}}
 
 ### Apresentado para
 - [[Pessoa]] - {{data}}
+
+## 🤝 Relacionamentos
+
+### Parceiros
+- [[Empresa Parceira]]
 
 ## 📊 Oportunidades relacionadas
 - [[indicacoes/nome-do-arquivo.md]]
