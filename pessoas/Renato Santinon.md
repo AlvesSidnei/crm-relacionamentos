@@ -2,7 +2,7 @@
 nome: Renato Santinon
 empresa: Globosul
 cargo: CEO
-tipo_relacao:
+tipo_relacao: funcionario
 email:
 telefone: 47 9100-0205
 origem:

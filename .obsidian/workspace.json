@@ -25,14 +25,10 @@
             "id": "e45dec11ece29883",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pessoas/Fernando Fernandes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fernando Fernandes"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
@@ -204,21 +200,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e45dec11ece29883",
+  "active": "80ad2a1cec057b67",
   "lastOpenFiles": [
-    "pessoas/Marlos Fernando.md",
-    "pessoas/Fernando Fernandes.md",
+    "empresas/METALMARTINS.md",
+    "empresas/GLOBOSUL.md",
+    "Nome da Pessoa.md",
+    "empresas/EASYPRO.md",
+    "empresas/Globosul.md",
+    "empresas/template-empresa.md",
     "pessoas/Clovis Faé.md",
-    "pessoas/Fernando Boettcher.md",
-    "pessoas/Alexandre Ribeiro.md",
     "pessoas/Silvio Correa.md",
     "pessoas/Renato Santinon.md",
+    "pessoas/Fernando Fernandes.md",
+    "pessoas/Marlos Fernando.md",
+    "pessoas/Fernando Boettcher.md",
+    "pessoas/Alexandre Ribeiro.md",
     "pessoas/template-pessoa.md",
-    "empresas/template-empresa.md",
     "empresas/Raimondi-artefatos.md",
     "empresas/OppportunityJet.md",
-    "empresas/METALMARTINS.md",
-    "empresas/Globosul.md",
     "README.md",
     "templates/README.md",
     "Sem título.md",
@@ -229,9 +228,6 @@
     "Nome.md",
     "Nome da Pessoa",
     "GloboSul.md",
-    "Empresa Parceira.md",
-    "Clóvis Faé.md",
-    "Pessoa.md",
-    "2026-08-13.md"
+    "Empresa Parceira.md"
   ]
 }

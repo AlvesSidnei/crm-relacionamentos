@@ -2,7 +2,7 @@
 nome: GloboSul
 empresa: Globosul
 cargo:
-tipo_relacao:
+tipo_relacao: funcionario
 email:
 telefone:
 origem:
