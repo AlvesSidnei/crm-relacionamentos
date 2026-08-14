@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indicacoes/Fernando Fernandes.md",
+                "file": "empresas/template-empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "indicacoes/Fernando Fernandes.md",
+                "file": "empresas/template-empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,12 +170,12 @@
               "title": "Sumário"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,13 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd8a1fc486ed37ae",
+  "active": "80ad2a1cec057b67",
   "lastOpenFiles": [
-    "empresas/EASYPRO.md",
     "empresas/Globosul.md",
+    "empresas/EASYPRO.md",
     "empresas/template-empresa.md",
-    "empresas/nome-da-empresa-parceira.md",
     "indicacoes/template-indicacao.md",
+    "empresas/nome-da-empresa-parceira.md",
     "pessoas/Alexandre Ribeiro.md",
     "pessoas/Clovis Faé.md",
     "pessoas/Fernando Fernandes.md",
