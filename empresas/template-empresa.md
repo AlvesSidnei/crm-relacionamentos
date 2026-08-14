@@ -4,7 +4,7 @@ segmento:
 site: 
 contato_principal: 
 funcionarios: []
-parceiros: [] []
+parceiros: []
 projetos: []
 indicacoes_feitas: []
 tags: [empresa, parceiro]
