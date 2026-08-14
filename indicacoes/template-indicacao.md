@@ -1,48 +1,39 @@
 ---
-titulo: 
-pessoa_indicada: 
-empresa_origem: 
-data_indicacao: 
-status: lead
-valor_estimado: 
-probabilidade: 50%
-tags: [indicacao, lead]
+nome_indicacao: 
+indicado_por: "[[pessoas/nome-da-pessoa.md]]" # ou empresa
+indicado_para: "[[empresas/nome-da-empresa.md]]"
+data_indicacao: YYYY-MM-DD
+status: oportunidade # oportunidade | em_negociacao | convertido | perdido
+projeto_resultante: []
+tags: [indicacao, oportunidade]
 ---
 
-# {{titulo}}
+# 💡 Indicação: {{nome_indicacao}}
 
-## 🔗 Origem
-- **Indicado por:** [[Empresa Origem]]
-- **Pessoa:** [[Pessoa Indicada]]
-- **Data:** 
+## 📋 Detalhes da Indicação
+- **Quem indicou:** [[pessoas/nome-da-pessoa.md]]
+- **Quem recebeu/Destino:** [[empresas/nome-da-empresa.md]]
+- **Contato da Indicação:** [[pessoas/nome-do-contato.md]]
+- **Data:** YYYY-MM-DD
 
-## 📊 Status
-- **Situação:** lead / proposta / negociacao / ganho / perdido
-- **Valor estimado:** R$ 
-- **Probabilidade:** 
+---
 
-## 📅 Timeline
+## 🎯 Status & Progresso
+- **Situação:** Oportunidade / Em Negociação / Convertido / Perdido
+- **Próxima ação:** 
+- **Data limite:** YYYY-MM-DD
 
-### {{data}}
-- **Evento:** Recebido indicação
-- **Detalhes:** 
+---
 
-### {{data}}
-- **Evento:** Primeira reunião
-- **Resumo:** 
-- **Ações:** 
+## 🚀 Desdobramentos
+- **Projeto Resultante:** [[projetos/nome-do-projeto.md]]
+- **Empresa Gerada/Relacionada:** [[empresas/nome-da-empresa.md]]
 
-## ✅ Ações
-- [ ] Entrar em contato inicial
-- [ ] Agendar primeira reunião
-- [ ] Enviar proposta
-- [ ] Follow-up
+---
 
-## 🔗 Relacionamentos envolvidos
-- **Parceiros:** [[Empresa Parceira]]
-- **Apresentado para:** [[Pessoa]]
+## 📝 Anotações & Contexto
+*Detalhes sobre a conversa, necessidades identificadas ou combinados feitos durante o processo de indicação.*
 
-## 📝 Notas
 - 
 
 ---

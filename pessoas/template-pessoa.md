@@ -1,10 +1,11 @@
 ---
 nome: 
-empresa: [[Nome da Empresa]]
+empresa: "[[Nome da Empresa]]"
 cargo: 
 tipo_relacao: funcionario
 email: 
 telefone: 
+projetos: []
 origem: 
 tipo_origem: Indicação
 data_entrada: 
@@ -17,10 +18,13 @@ tags: [lead, indicacao]
 # {{nome}}
 
 ## 📋 Dados
-- **Empresa:** 
+- **Empresa:** [[Nome da Empresa]]
 - **Cargo:** 
 - **Email:** 
 - **Telefone:** 
+
+## 💼 Projetos em que Participa
+- [[projetos/nome-do-projeto.md]]
 
 ## 🔗 Origem
 - **Indicado por:** [[Nome da Pessoa/Empresa]]

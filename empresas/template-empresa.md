@@ -5,6 +5,7 @@ site:
 contato_principal: 
 funcionarios: []
 parceiros: []
+projetos: []
 indicacoes_feitas: []
 tags: [empresa, parceiro]
 ---
@@ -34,6 +35,9 @@ tags: [empresa, parceiro]
 
 ### Parceiros
 - [[Empresa Parceira]]
+
+## 🚀 Projetos
+- [[projetos/nome-do-projeto.md]]
 
 ## 📊 Oportunidades relacionadas
 - [[indicacoes/nome-do-arquivo.md]]
