@@ -1,13 +1,16 @@
 ---
-nome: 
-segmento: 
-site: 
-contato_principal: 
+nome:
+segmento:
+site:
+contato_principal:
 funcionarios: []
-parceiros: []
+parceiros:
+  - "[[empresas/nome-da-empresa-parceira.md]]"
 projetos: []
 indicacoes_feitas: []
-tags: [empresa, parceiro]
+tags:
+  - empresa
+  - parceiro
 ---
 
 # {{nome}}
