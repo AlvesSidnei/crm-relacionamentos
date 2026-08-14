@@ -1,7 +1,7 @@
 ---
 nome: Clóvis Faé
 empresa:
-cargo:
+cargo: CEO
 tipo_relacao:
 email:
 telefone: 47 9670-2008
